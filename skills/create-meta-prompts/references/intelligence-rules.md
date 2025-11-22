@@ -138,6 +138,37 @@ Similar feature: @src/features/payments/
 
 <output_optimization>
 
+<streaming_writes>
+For research and plan outputs that may be large:
+
+**Instruct incremental writing:**
+```xml
+<process>
+1. Create output file with XML skeleton
+2. Write each section as completed:
+   - Finding 1 discovered → Append immediately
+   - Finding 2 discovered → Append immediately
+   - Code example found → Append immediately
+3. Finalize summary and metadata after all sections complete
+</process>
+```
+
+**Why this matters:**
+- Prevents lost work from token limit failures
+- No need to estimate output size
+- Agent creates natural checkpoints
+- Works for any task complexity
+
+**When to use:**
+- Research prompts (findings accumulate)
+- Plan prompts (phases accumulate)
+- Any prompt that might produce >15k tokens
+
+**When NOT to use:**
+- Do prompts (code generation is different workflow)
+- Simple tasks with known small outputs
+</streaming_writes>
+
 <claude_to_claude>
 For Claude-to-Claude consumption:
 

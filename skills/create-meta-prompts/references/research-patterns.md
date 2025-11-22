@@ -80,6 +80,96 @@ Structure findings using this XML format:
 ```
 </output_structure>
 
+<incremental_output>
+**CRITICAL: Write findings incrementally to prevent token limit failures**
+
+Instead of generating the full research in memory and writing at the end:
+1. Create the output file with initial structure
+2. Write each finding as you discover it
+3. Append code examples as you find them
+4. Update metadata at the end
+
+This ensures:
+- Zero lost work if token limit is hit
+- File contains all findings up to that point
+- No estimation heuristics needed
+- Works for any research size
+
+<workflow>
+Step 1 - Initialize structure:
+```bash
+# Create file with skeleton
+Write: .prompts/{num}-{topic}-research/{topic}-research.md
+Content: Basic XML structure with empty sections
+```
+
+Step 2 - Append findings incrementally:
+```bash
+# After researching authentication libraries
+Edit: Append <finding> to <findings> section
+
+# After discovering rate limits
+Edit: Append another <finding> to <findings> section
+```
+
+Step 3 - Add code examples as discovered:
+```bash
+# Found jose example
+Edit: Append to <code_examples> section
+```
+
+Step 4 - Finalize metadata:
+```bash
+# After completing research
+Edit: Update <metadata> section with confidence, dependencies, etc.
+```
+</workflow>
+
+<example_prompt_instruction>
+```xml
+<output_requirements>
+Write findings incrementally to {topic}-research.md as you discover them:
+
+1. Create the file with this initial structure:
+   ```xml
+   <research>
+     <summary>[Will complete at end]</summary>
+     <findings></findings>
+     <recommendations></recommendations>
+     <code_examples></code_examples>
+     <metadata></metadata>
+   </research>
+   ```
+
+2. As you research each aspect, immediately append findings:
+   - Research JWT libraries → Write finding
+   - Discover security pattern → Write finding
+   - Find code example → Append to code_examples
+
+3. After all research complete:
+   - Write summary (synthesize all findings)
+   - Write recommendations (based on findings)
+   - Write metadata (confidence, dependencies, etc.)
+
+This incremental approach ensures all work is saved even if execution
+hits token limits. Never generate the full output in memory first.
+</output_requirements>
+```
+</example_prompt_instruction>
+
+<benefits>
+**vs. Pre-execution estimation:**
+- No estimation errors (you don't predict, you just write)
+- No artificial modularization (agent decides natural breakpoints)
+- No lost work (everything written is saved)
+
+**vs. Single end-of-execution write:**
+- Survives token limit failures (partial progress saved)
+- Lower memory usage (write as you go)
+- Natural checkpoint recovery (can continue from last finding)
+</benefits>
+</incremental_output>
+
 <summary_requirements>
 Create `.prompts/{num}-{topic}-research/SUMMARY.md`
 
