@@ -511,6 +511,46 @@ mkdir -p ~/.claude/skills/expertise/{domain-name}/references
 ls -R ~/.claude/skills/expertise/{domain-name}
 ```
 
+## Step 10.5: Add Continual Learning
+
+**Domain expertise skills should include continual learning by default.**
+
+These skills accumulate knowledge over time - what patterns work, what approaches fail, domain-specific insights from real usage.
+
+Create learning files:
+```bash
+cat > ~/.claude/skills/expertise/{domain-name}/learnings.md << 'EOF'
+# Learnings
+
+Accumulated knowledge from working sessions. Updated via /retrospective.
+
+---
+
+EOF
+
+cat > ~/.claude/skills/expertise/{domain-name}/failures.md << 'EOF'
+# Failures & Dead Ends
+
+Things that didn't work. Avoid repeating these patterns.
+
+---
+
+EOF
+```
+
+Add to SKILL.md (inside the router template, after essential_principles):
+```xml
+<continual_learning>
+Before starting work, check for accumulated knowledge:
+- Read learnings.md for patterns that work in this domain
+- Read failures.md for approaches to avoid
+
+After significant work, suggest running /retrospective to capture new insights.
+</continual_learning>
+```
+
+See references/continual-learning.md for full guidance on the continual learning pattern.
+
 ## Step 11: Document in create-plans
 
 Update `~/.claude/skills/create-plans/SKILL.md` to reference this new domain:
@@ -577,6 +617,8 @@ Domain expertise skill is complete when:
 - [ ] Referenced in create-plans domain inference table
 - [ ] Passes dual-purpose test: Can be invoked directly AND loaded for knowledge
 - [ ] User can build something professional from scratch through shipping
+- [ ] Continual learning files created (learnings.md, failures.md)
+- [ ] SKILL.md includes <continual_learning> section
 </success_criteria>
 
 <anti_patterns>

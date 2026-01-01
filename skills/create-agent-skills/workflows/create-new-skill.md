@@ -139,7 +139,62 @@ Domain knowledge that:
 - Doesn't change based on workflow
 - Contains patterns, examples, technical details
 
-## Step 8: Validate Structure
+## Step 8: Consider Continual Learning
+
+Ask using AskUserQuestion:
+"Should this skill support continual learning? (Skills learn from session successes and failures)"
+
+Options:
+1. **Yes, add learning files** - Skill will accumulate knowledge over time
+2. **No, skip it** - Skill has deterministic outputs or will be used rarely
+
+**When to recommend YES:**
+- Domain expertise skills
+- Creative/ideation skills
+- Skills with subjective quality
+- Skills used frequently
+
+**When to recommend NO:**
+- Utility skills (formatters, converters)
+- Deterministic skills with clear right/wrong
+- One-off or rarely used skills
+
+**If YES:**
+Create learning file templates:
+```bash
+cat > ~/.claude/skills/{skill-name}/learnings.md << 'EOF'
+# Learnings
+
+Accumulated knowledge from working sessions. Updated via /retrospective.
+
+---
+
+EOF
+
+cat > ~/.claude/skills/{skill-name}/failures.md << 'EOF'
+# Failures & Dead Ends
+
+Things that didn't work. Avoid repeating these patterns.
+
+---
+
+EOF
+```
+
+Add to SKILL.md:
+```xml
+<continual_learning>
+Before starting work, check for accumulated knowledge:
+- Read learnings.md for patterns that work
+- Read failures.md for approaches to avoid
+
+After significant work, suggest running /retrospective to capture new insights.
+</continual_learning>
+```
+
+See references/continual-learning.md for full guidance.
+
+## Step 9: Validate Structure
 
 Check:
 - [ ] YAML frontmatter valid
@@ -150,8 +205,9 @@ Check:
 - [ ] All referenced files exist
 - [ ] SKILL.md under 500 lines
 - [ ] XML tags properly closed
+- [ ] Continual learning files created (if applicable)
 
-## Step 9: Create Slash Command
+## Step 10: Create Slash Command
 
 ```bash
 cat > ~/.claude/commands/{skill-name}.md << 'EOF'
@@ -165,7 +221,7 @@ Invoke the {skill-name} skill for: $ARGUMENTS
 EOF
 ```
 
-## Step 10: Test
+## Step 11: Test
 
 Invoke the skill and observe:
 - Does it ask the right intake question?

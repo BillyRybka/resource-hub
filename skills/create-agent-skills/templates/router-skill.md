@@ -71,3 +71,26 @@ A well-executed {{skill name}}:
 - {{Second criterion}}
 - {{Third criterion}}
 </success_criteria>
+
+<!-- OPTIONAL: Continual Learning (remove if not applicable) -->
+<!--
+<continual_learning>
+Before starting work, check for accumulated knowledge:
+- Read learnings.md for patterns that work
+- Read failures.md for approaches to avoid
+
+After significant work, suggest running /retrospective to capture new insights.
+</continual_learning>
+
+Note: If including continual learning, create these files in the skill directory:
+- learnings.md (template in references/continual-learning.md)
+- failures.md (template in references/continual-learning.md)
+
+Continual learning is recommended for:
+- Domain expertise skills
+- Creative/ideation skills
+- Skills with subjective quality
+- Frequently used skills
+
+Skip for utility skills, formatters, and deterministic transformations.
+-->

@@ -145,6 +145,7 @@ All in `references/`:
 **Patterns:** common-patterns.md, workflows-and-validation.md
 **Assets:** using-templates.md, using-scripts.md
 **Advanced:** executable-code.md, api-security.md, iteration-and-testing.md
+**Evolution:** continual-learning.md
 </reference_index>
 
 <workflows_index>
