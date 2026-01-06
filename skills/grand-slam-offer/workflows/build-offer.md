@@ -122,6 +122,26 @@ Assign a believable price to each component:
 
 **Target:** Total value = 5-10x your actual price
 
+<book_example>
+**From the book — Weight loss offer value stack:**
+
+```
+✓ Foolproof Bargain Grocery System ────────── $1,000 value
+✓ "Ready in 5 min" Busy Parent Cooking Guide ── $600 value
+✓ Personalized "Lick Your Fingers Good" Meal Plan ── $500 value
+✓ Fat Burning Workouts (Better Than Alone) ──── $699 value
+✓ "Never Fall Off" Accountability System ───── $1,000 value
+✓ "Live It Up While Slimming Down" Eating Out ── $349 value
+✓ "Tone Up While You Travel" Blueprint ─────── $199 value
+═══════════════════════════════════════════════════
+TOTAL VALUE: $4,351 → PRICE: $599 (7.3x ratio)
+```
+
+Each component has a benefit-focused name and justified value.
+
+**Full example:** `references/examples/weight-loss-offer.md`
+</book_example>
+
 ## Step 4: Add Scarcity
 
 Ask: "What's your real capacity limit? How many can you actually serve well?"

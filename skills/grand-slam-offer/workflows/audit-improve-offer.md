@@ -20,6 +20,24 @@ Deliver brutal, Alex Hormozi-style critique of an existing offer, then provide s
 
 </objective>
 
+<book_example>
+**The 22.4x transformation (from Chapter 3):**
+
+| Metric | Before (Commodity) | After (Grand Slam) |
+|--------|-------------------|-------------------|
+| Ad Spend | $10,000 | $10,000 |
+| Response Rate | 2% | 5% |
+| Close Rate | 10% | 25% |
+| Price | $250 | $896 |
+| **Cash Collected** | **$5,000** | **$112,000** |
+
+Same effort. Same ad spend. 22.4x more revenue. This is what's possible.
+
+**The weight loss example:** $99/month membership nobody bought → $599-$5,200 offer with 2 refunds out of 4,000+ sales.
+
+**Full example:** `references/examples/weight-loss-offer.md`
+</book_example>
+
 <intake>
 
 Ask: "Share your current offer. Include as much as you can:

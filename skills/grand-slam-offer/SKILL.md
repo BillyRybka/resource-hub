@@ -152,6 +152,9 @@ All domain knowledge in `references/`:
 - naming-magic.md - M.A.G.I.C. formula + examples
 - variation-hierarchy.md - When/how to refresh offers
 
+**Complete Examples:**
+- examples/weight-loss-offer.md - Full B2C offer from the book (most detailed)
+
 </reference_index>
 
 <workflows_index>

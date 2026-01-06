@@ -105,6 +105,21 @@ Example for weight loss:
 
 **Minimum 32 problems.** If they can't hit 32, they don't understand their customer deeply enough. This is a red flag - they need more customer research.
 
+<book_example>
+**From the book — "Buy Healthy Food" action with all 4 categories:**
+
+| Category | Problems Identified |
+|----------|---------------------|
+| Likelihood | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
+| Time | "Grocery shopping takes forever" / "Too busy for multiple stores" |
+| Effort | "Reading labels is confusing" / "Don't know how to find deals" |
+| Sacrifice | "Healthy food is expensive" / "I'll miss my comfort foods" |
+
+Repeat this for every action (cook, eat, exercise, stay accountable) → 40+ problems total.
+
+**Full example:** `references/examples/weight-loss-offer.md`
+</book_example>
+
 ## Step 4: Validate Problem List
 
 Review the problems against the Value Equation:
