@@ -117,6 +117,8 @@ For EACH action they must take, apply these four lenses:
 | **Effort & Sacrifice** | "Too hard" | "This will be too hard, confusing. I won't like it. I will suck at it." |
 | **Time Delay** | "Takes too long" | "This will take too much time to do. I am too busy. It will take too long to work. It won't be convenient for me." |
 
+**Note on Objections:** Objections about buying or using your solution ("What if it doesn't work for me?" / "I don't have time to learn this" / "My situation is different") are Perceived Likelihood and Effort & Sacrifice problems. Treat them like any other problem—they need to be solved somewhere in your offer.
+
 **For each category, ask:**
 - "Not worth it" → How can I make this MORE financially worth it?
 - "Won't work for me" → How can I prove this WILL work for them specifically?
