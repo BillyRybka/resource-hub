@@ -37,7 +37,7 @@ Ask them to share:
 |-------|----------|----------|
 | Market | Does it pass 4 criteria? | "Your market has a gap. [Specific issue]. Want to address this first or proceed with the risk acknowledged?" |
 | Dream Outcome | Is it visceral and status-focused? | "This dream outcome is too vague. Let's sharpen it: What will people SAY about them when they achieve this?" |
-| Problem Count | Are there 32+? | "You have [X] problems. That's below the target of 32. Either you need more customer research, or let's brainstorm more now." |
+| Problem Count | Is the list comprehensive? | "You have [X] problems. Want to brainstorm more before we continue? The more problems, the more opportunities to create value." |
 
 **Do not proceed without acknowledgment.** Either fix the gap or get explicit "proceed anyway" from user.
 

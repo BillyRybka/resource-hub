@@ -29,7 +29,7 @@ From Alex Hormozi's $100M Offers book (Chapters 8-9, 14-15). This is the most de
 
 <problem_list>
 
-**Target: 32-64 problems across 4 Value Equation categories per action**
+**This example produced 40+ problems across 4 Value Equation categories**
 
 ### Action 1: Buy Healthy Food
 

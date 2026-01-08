@@ -11,7 +11,7 @@ updated: {{DATE}}
 ### Planning Phase
 - [ ] Market validated
 - [ ] Dream outcome defined
-- [ ] Problems identified (target: 32+)
+- [ ] Problems identified (list as many as you can)
 
 ### Build Phase
 - [ ] Solutions created
@@ -65,7 +65,7 @@ updated: {{DATE}}
 
 ---
 
-## Problems (Target: 32+)
+## Problems
 
 ### How to Use This Section
 List every action required to achieve the dream outcome. For each action, identify problems in all 4 Value Equation categories.

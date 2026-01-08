@@ -26,6 +26,22 @@ Create more demand than you satisfy. Always leave some prospects wanting.
 
 > "We must endeavor to keep our supply (and satisfaction of desire) under the demand that we are able to generate. This maximizes profits and keeps desire ravenous in our customer base."
 
+### Hormozi's Law of Demand
+
+> **"The longer you delay the ask, the bigger the ask you can make."**
+
+The longer the runway, the bigger the plane that can take off.
+
+**Application:**
+- Build demand before making offers
+- Don't immediately monetize every audience
+- Let desire accumulate
+- When you DO make the offer, make it big
+
+Most entrepreneurs ask too soon, for too little.
+
+---
+
 ### The Danger of Over-Satisfying
 
 **Scenario 1: Satisfy all demand**

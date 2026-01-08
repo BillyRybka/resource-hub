@@ -4,6 +4,50 @@ Deep reference for the capability decision framework. Read this when analyzing d
 
 ---
 
+<user_intent>
+
+## Start with Intent
+
+Before applying the decision cascade, understand what the user wants to achieve. This shapes all recommendations.
+
+### The Intent Question
+
+**"What are you trying to build?"**
+
+| Intent | Description | Component Bias |
+|--------|-------------|----------------|
+| **Equip yourself** | Tools that make YOU better at doing the work | Favor skills (interactive, teaches methodology) |
+| **Delegate to agent** | Autonomous worker that does work and returns results | Favor subagents (isolated, hands-off) |
+| **Hybrid** | Agent does work using your methodologies | Subagents that invoke skills |
+
+### How Intent Changes Recommendations
+
+**Same input, different intent:**
+
+Example: "I have documentation on how to write great YouTube scripts"
+
+| Intent | Recommendation | Rationale |
+|--------|----------------|-----------|
+| Equip yourself | Skill: youtube-scripting | You want to learn the methodology, stay involved in writing |
+| Delegate to agent | Subagent: script-writer | You want to hand off a topic, get a script back |
+| Hybrid | Both: skill + subagent | Agent writes scripts using your methodology skill |
+
+### When Intent is Unclear
+
+If user picks "not sure yet":
+
+1. Ask about their typical workflow - do they want to be involved or get results?
+2. Ask about learning goals - do they want to internalize the expertise?
+3. Ask about volume - one-off deep work or repeated delegation?
+
+High involvement + learning + one-off → Equip yourself
+Low involvement + no learning + repeated → Delegate
+Mix → Hybrid
+
+</user_intent>
+
+---
+
 <decision_cascade>
 
 ## The Primary Decision Flow
@@ -185,12 +229,43 @@ Don't create anything. Just do it. Only create capabilities for reusable pattern
 
 **Situation:** "YouTube content creation workflow"
 
-**Resolution:** Apply splitting tests (see component-boundaries.md):
-- Ideation (different expertise) → Skill
-- Scripting (different expertise) → Skill
-- Packaging (different expertise) → Skill
+**Resolution:** Apply BOTH splitting AND keep-together tests (see component-boundaries.md):
+
+**Step 1: Apply splitting tests**
+- Ideation (different expertise) → Maybe split
+- Scripting (different expertise) → Maybe split
+- Packaging (different expertise) → Maybe split
+
+**Step 2: Apply keep-together tests**
+- Integration: Does ideation alone produce value? → YES (validated ideas are useful)
+- Overhead: Would splitting create friction? → NO (clean handoffs)
+- Context dependency: Need each other's context? → NO (minimal)
+- Workflow: Always used together? → NO (often just need one part)
+
+**Step 3: Apply decision matrix**
+- Splitting score: 3+ (different expertise, can complete separately, would need just one)
+- Keep-together score: 0 (all tests say split is fine)
+- Decision: SPLIT
+
+**Result:**
+- Ideation → Skill
+- Scripting → Skill
+- Packaging → Skill
 - Harsh critic (different persona) → Subagent
 - Publish checklist (just steps) → Command
+
+---
+
+### Edge Case 5: Audit says split, but feels wrong
+
+**Situation:** Tests suggest splitting, but something feels off
+
+**Resolution questions:**
+1. Would users actually invoke these separately? (If rarely → keep together)
+2. Does splitting create more overhead than value? (If yes → keep together)
+3. Is the "split" creating micro-components that don't stand alone? (If yes → keep together)
+
+**Remember:** The balanced decision framework defaults to fewer components when truly ambiguous. Don't split just because you can.
 
 </edge_cases>
 

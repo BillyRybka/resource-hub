@@ -12,7 +12,7 @@
 
 Complete the strategy phase of offer creation: validate the market, define the dream outcome, and identify all problems to solve. This workflow produces the foundation that `build-offer.md` will execute on.
 
-**Output:** A validated market, clear dream outcome, and 32+ specific problems ready for solution development.
+**Output:** A validated market, clear dream outcome, and comprehensive problem list ready for solution development.
 
 </objective>
 
@@ -100,7 +100,7 @@ If no to any → dig deeper. The dream outcome isn't visceral enough.
 
 **SAVE POINT:** Update the Dream Outcome section in the working document. Mark "Dream outcome defined" checkbox complete.
 
-## Step 3: Identify All Problems (Target: 32-64)
+## Step 3: Identify All Problems
 
 **The process:**
 
@@ -127,7 +127,7 @@ Example for weight loss:
 
 "What else? What's something people are embarrassed to admit stops them? What would they never say out loud but secretly worry about?"
 
-**Minimum 32 problems.** If they can't hit 32, they don't understand their customer deeply enough. This is a red flag - they need more customer research.
+**List as many as you can.** The framework is just to get your brain going - if it's easier, just brainstorm freely without the buckets. Don't get overwhelmed. The more problems you identify, the more opportunities you have to create value. Each problem is a chance to differentiate your offer.
 
 <book_example>
 **From the book — "Buy Healthy Food" action with all 4 categories:**
@@ -236,7 +236,7 @@ Use these throughout to challenge weak thinking:
 Plan phase is complete when:
 - [ ] Market passes all 4 criteria (or user chose to proceed with acknowledged risk)
 - [ ] Dream outcome is visceral and status-focused
-- [ ] 32+ specific problems identified
+- [ ] Comprehensive problem list created (more = more opportunities)
 - [ ] Problems categorized by Value Equation driver
 - [ ] Biggest opportunity area identified
 - [ ] User has summary document to take into build phase

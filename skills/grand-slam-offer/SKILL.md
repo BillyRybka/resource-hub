@@ -110,7 +110,7 @@ Lowest score = biggest opportunity.
 **Grand Slam Components Checklist:**
 - [ ] Validated market (4 criteria)
 - [ ] Clear dream outcome (status-focused)
-- [ ] 32+ problems identified
+- [ ] Comprehensive problem list (more = more value)
 - [ ] Solutions for each problem
 - [ ] Delivery vehicles (Delivery Cube applied)
 - [ ] Trimmed & stacked (high value, low cost kept)
@@ -125,7 +125,7 @@ Lowest score = biggest opportunity.
 - 100x = Price increase through niching
 - 50-60% = Sales in last 3% of deadline
 - 2-4x = Conversion increase from strong guarantee
-- 32-64 = Target problems to identify
+- More problems = More opportunities to create value
 - 5-10x = Bonus value relative to price
 
 </quick_reference>
@@ -174,7 +174,7 @@ All domain knowledge in `references/`:
 A complete Grand Slam Offer:
 - Targets a validated starving crowd (4 criteria pass)
 - Has crystal-clear dream outcome (status-focused, visceral)
-- Addresses 32+ specific problems
+- Addresses comprehensive problem list (each one = value opportunity)
 - Delivers solutions via optimized vehicles (Delivery Cube applied)
 - Includes scarcity (real capacity limits)
 - Includes urgency (real time limits)

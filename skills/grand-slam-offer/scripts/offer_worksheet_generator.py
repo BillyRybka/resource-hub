@@ -100,12 +100,12 @@ class OfferWorksheet:
         print(f"✓ Dream Outcome: {self.data['dream_outcome']}")
     
     def run_step_2_problems(self):
-        """Step 2: List all problems (target 32+)."""
+        """Step 2: List all problems."""
         self.clear_screen()
         print("STEP 2: LIST ALL PROBLEMS")
         print("-" * 40)
         print("Every obstacle between your prospect and their dream = value opportunity.")
-        print("Target: 32+ problems across 4 categories per action.")
+        print("List as many as you can - more problems = more value to create.")
         print()
         
         # Get required actions
@@ -143,8 +143,7 @@ class OfferWorksheet:
         
         print()
         print(f"✓ Total problems identified: {len(self.data['problems'])}")
-        if len(self.data["problems"]) < 32:
-            print(f"  ⚠ Target is 32+. Consider adding more for maximum value.")
+        print(f"  Each problem is an opportunity to create value in your offer.")
     
     def run_step_3_solutions(self):
         """Step 3: Convert problems to solutions."""

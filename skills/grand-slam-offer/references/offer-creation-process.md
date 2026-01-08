@@ -6,7 +6,7 @@ The systematic process for building Grand Slam Offers that cannot be compared to
 
 ```
 Step 1: Dream Outcome ──▶ What transformation do they want?
-Step 2: List Problems ───▶ Every obstacle (target: 32-64)
+Step 2: List Problems ───▶ Every obstacle (more = more value)
 Step 3: Solutions ───────▶ "How to..." for each problem
 Step 4: Delivery ────────▶ HOW you'll deliver (Delivery Cube)
 Step 5: Trim & Stack ────▶ Remove low-value, bundle high-value
@@ -98,7 +98,7 @@ I help [avatar] achieve [specific outcome] in [time period] without [biggest pai
 
 ---
 
-## Step 2: List All Problems (Target: 32-64)
+## Step 2: List All Problems
 
 ### The Principle
 
@@ -191,7 +191,7 @@ Problems exist at every stage of the customer journey. Don't just solve problems
 | Effort & Sacrifice | "Staying motivated is hard" / "I need constant reminders" / "I'll have to admit when I fail" |
 | Time Delay | "Tracking progress takes time" / "Weigh-ins are inconvenient" |
 
-**Total problems identified:** 40+ (exceeds minimum of 32)
+**Total problems identified:** 40+ (each one is an opportunity to create value)
 
 ### Problem Identification Template
 
@@ -582,7 +582,7 @@ Build your business from the TOP down, not bottom up.
 Before launching your offer:
 
 - [ ] Dream outcome is specific, visceral, and status-enhancing
-- [ ] 32+ problems identified across 4 categories
+- [ ] Problems listed across all 4 categories (more = more opportunities)
 - [ ] Each problem converted to "How to..." solution
 - [ ] Delivery vehicles chosen using Delivery Cube
 - [ ] Low-value items trimmed

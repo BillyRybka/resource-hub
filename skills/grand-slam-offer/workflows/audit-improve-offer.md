@@ -58,6 +58,10 @@ Ask: "Share your current offer. Include as much as you can:
 
 Before analyzing systematically, give your gut reaction. Be direct.
 
+**The Commodity Test:** Can prospects easily compare this offer to competitors?
+- If YES → They're commoditized. Prospects will say "that's expensive" (comparing to alternatives)
+- If NO → They're differentiated. Prospects will say "how is that possible?" (can't compare)
+
 "Here's my first impression: [Honest reaction]"
 
 Examples of honest first impressions:
@@ -66,8 +70,35 @@ Examples of honest first impressions:
 - "The price is way too low for what you're offering. You're leaving money on the table."
 - "This is a feature list, not an outcome. No one buys features."
 - "Who is this even for? 'Business owners' isn't specific enough."
+- "I could Google this and find 10 other people offering the same thing. You're in a price war."
 
 Don't soften it. They came for feedback, give it to them.
+
+## Step 1.5: Business Model Quick Scan (5 Components)
+
+Before diving into value analysis, check all 5 components of a Grand Slam Offer:
+
+| Component | Score (1-10) | What to Look For |
+|-----------|--------------|------------------|
+| **Promotion** | ? | Is the offer visible? Does it get attention? |
+| **Value Proposition** | ? | Is it unmatchable? Can't be compared to alternatives? |
+| **Premium Price** | ? | Are they charging what it's worth? |
+| **Guarantee** | ? | Is buyer risk reversed? |
+| **Money Model** | ? | Does each sale fund the next acquisition? (80%+ gross margin) |
+
+**Interpretation:**
+
+| Lowest Score | What It Means | Action |
+|--------------|---------------|--------|
+| Promotion | Great offer, but invisible | Marketing problem, not offer problem |
+| Value Proposition | Core offer is weak | Proceed with full audit (our focus) |
+| Premium Price | Leaving money on table | Pricing problem — may be fear-based |
+| Guarantee | Buyer risk too high | Add/strengthen guarantee |
+| Money Model | Can't afford to acquire customers | Unit economics broken — fix margins first |
+
+**If Promotion or Money Model is lowest:** Flag this. "Your offer might be fine — the problem may be [visibility/unit economics]. Want to address that first, or proceed with offer audit?"
+
+**If Value Prop, Price, or Guarantee is lowest:** Proceed with full Value Equation analysis.
 
 ## Step 2: Value Equation Scorecard
 

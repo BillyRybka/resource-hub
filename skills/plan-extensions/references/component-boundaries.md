@@ -104,6 +104,175 @@ When something seems like "one big thing," apply these tests. If 2+ suggest spli
 
 ---
 
+<keep_together_tests>
+
+## The Four Keep-Together Tests
+
+After applying splitting tests, apply these counter-tests. Both sides must be evaluated for a balanced decision.
+
+### 1. Integration Test
+
+**Question:** "Does A without B produce nothing useful?"
+
+**How to apply:**
+- For each potential split point, ask: what does A alone actually deliver?
+- If A's output is useless without B, they're tightly coupled
+
+**Example: API Client**
+| Part A | Part B | Does A alone produce value? |
+|--------|--------|----------------------------|
+| Request building | Response parsing | NO - raw request without parsing is useless |
+| Authentication | Request execution | NO - auth token alone does nothing |
+
+**Result:** Keep together - parts are meaningless in isolation.
+
+**Counter-example: YouTube workflow**
+| Part A | Part B | Does A alone produce value? |
+|--------|--------|----------------------------|
+| Ideation | Scripting | YES - validated idea is valuable even without script |
+| Scripting | Production | YES - script can be reviewed, shared, iterated |
+
+**Result:** Can split - each part delivers standalone value.
+
+---
+
+### 2. Overhead Test
+
+**Question:** "Would splitting create painful coordination or invocation friction?"
+
+**How to apply:**
+- Imagine invoking the split components in practice
+- Count handoffs, context reloads, repeated explanations
+- If overhead exceeds benefit, keep together
+
+**Signs of painful overhead:**
+- Need to pass large context between components
+- User must invoke 3+ things for one task
+- Components constantly reference each other
+- Same setup/teardown repeated
+
+**Example: Form validation**
+| Split Option | Overhead |
+|--------------|----------|
+| field-validation + form-validation + error-display | HIGH - three invocations for one form |
+| form-validation (includes all) | LOW - one cohesive skill |
+
+**Result:** Keep together - splitting creates unnecessary friction.
+
+---
+
+### 3. Context Dependency Test
+
+**Question:** "Does each part need the other's context to function well?"
+
+**How to apply:**
+- Can part A execute without knowing what part B did/will do?
+- Do they share state, variables, or accumulated decisions?
+
+**Example: Refactoring workflow**
+| Part | Needs context from |
+|------|-------------------|
+| Identify code smells | Nothing (can run fresh) |
+| Plan refactoring | Needs smell analysis |
+| Execute refactoring | Needs plan details |
+| Verify refactoring | Needs original + refactored state |
+
+**Result:** High context dependency → likely keep as one skill with phases, not separate skills.
+
+**Counter-example: Content creation**
+| Part | Needs context from |
+|------|-------------------|
+| Ideation | Nothing (fresh start) |
+| Scripting | Just the idea (small handoff) |
+| Packaging | Just the video topic (small handoff) |
+
+**Result:** Low context dependency → can split cleanly.
+
+---
+
+### 4. Workflow Test
+
+**Question:** "Would users ALWAYS invoke these together, never separately?"
+
+**How to apply:**
+- Think of 10 realistic use cases
+- In how many would user want JUST part A or JUST part B?
+- If answer is 0-1 out of 10, keep together
+
+**Example: Linting + Auto-fix**
+| Use Case | Just Lint? | Just Fix? |
+|----------|------------|-----------|
+| Quick check before commit | YES | NO |
+| CI pipeline | YES | NO |
+| Clean up file | NO | Needs lint first |
+| Review code quality | YES | NO |
+
+**Result:** Users often want just lint → can split (lint is standalone, fix depends on lint).
+
+**Counter-example: Encrypt + Decrypt**
+| Use Case | Just Encrypt? | Just Decrypt? |
+|----------|---------------|---------------|
+| Store secret | YES | NO |
+| Retrieve secret | NO | YES |
+| Rotate keys | YES | YES |
+
+**Result:** Users need both but separately → split into two.
+
+</keep_together_tests>
+
+---
+
+<balanced_decision>
+
+## Making the Balanced Decision
+
+### The Rule
+
+**Split when:** 2+ splitting tests say YES **AND** fewer than 2 keep-together tests say YES
+
+**Keep together when:** 2+ keep-together tests say YES **OR** fewer than 2 splitting tests say YES
+
+### Decision Matrix
+
+| Splitting Tests | Keep-Together Tests | Decision |
+|-----------------|---------------------|----------|
+| 0-1 say split | Any | KEEP TOGETHER |
+| 2+ say split | 0-1 say keep | SPLIT |
+| 2+ say split | 2+ say keep | CONFLICT - dig deeper |
+
+### Resolving Conflicts
+
+When both sides have 2+ signals:
+
+1. **Weight by severity** - Which tests have stronger signals?
+2. **Consider user intent** - Does user want tools for themselves or autonomous agents?
+3. **Prototype test** - Imagine using both options for a week. Which feels right?
+4. **Default to fewer components** - When truly ambiguous, start with one and split later if needed
+
+### Example: Email Marketing Workflow
+
+**Splitting tests:**
+- Boundary: Can complete separately? → YES (draft vs send vs analyze)
+- Naming: Without "and"? → NO ("email-creation-and-analytics")
+- Context: Need just one part? → YES (might just analyze)
+- Expertise: Different expertise? → MAYBE (copywriting vs data analysis)
+
+**Splitting score: 2.5 (YES on boundary, context; partial on naming, expertise)**
+
+**Keep-together tests:**
+- Integration: A without B useless? → NO (draft alone is useful)
+- Overhead: Painful coordination? → NO (clean handoffs)
+- Context dependency: Need each other's context? → NO (minimal)
+- Workflow: Always together? → NO (often just analyze existing campaigns)
+
+**Keep-together score: 0**
+
+**Decision:** SPLIT - Clear signal to separate into draft-email, send-email, analyze-email (or similar).
+
+</balanced_decision>
+
+---
+
 <counting_skills>
 
 ## Rules for Counting Skills
