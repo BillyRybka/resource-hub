@@ -68,6 +68,34 @@ Frame outcomes in terms of what OTHERS will think/say:
    ________________________________________________
 ```
 
+### Dream Outcome Formula
+
+Use this template for crisp, compelling outcomes:
+
+```
+[X specific outcome] in [Y time period] without [biggest pain or fear]
+```
+
+**Full Avatar Version:**
+```
+I help [avatar] achieve [specific outcome] in [time period] without [biggest pain/fear]
+```
+
+**Examples:**
+
+| Business | Formula Applied |
+|----------|-----------------|
+| Weight Loss | "Lose 20 pounds in six weeks without giving up the foods you love" |
+| Weight Loss (w/ Avatar) | "I help moms with 3+ kids lose weight in 6 months without going to the gym or changing what the family eats" |
+| B2B | "Add $100k in annual revenue in 90 days without hiring more staff" |
+| Real Estate Investing | "Close your first deal in 60 days without risking your savings" |
+
+**The "Without" Options:**
+- Without biggest pain
+- Without biggest fear
+- Without biggest sacrifice
+- Without extra time/trips/effort
+
 ---
 
 ## Step 2: List All Problems (Target: 32-64)
@@ -86,6 +114,38 @@ For EACH action they must take, apply these four lenses:
 | **Time** | "It takes too long" | Why do they feel they don't have time? |
 | **Effort** | "It's too hard" | What seems confusing/complicated/difficult? |
 | **Sacrifice** | "The cost is too high" | What must they give up? (money, comfort, habits) |
+
+### The Four Problem Appraisals (Prospect's Internal Voice)
+
+When prospects evaluate your offer, they're running these internal appraisals:
+
+| Value Driver | Their Appraisal | What They're Thinking |
+|--------------|-----------------|----------------------|
+| **Dream Outcome** | "Not worth it" | "This won't be financially worth it for me" |
+| **Perceived Likelihood of Achievement** | "Won't work for me" | "I won't be able to stick with it. External factors will get in my way." |
+| **Effort & Sacrifice** | "Too hard" | "It's going to be confusing. I'll be bad at it. I won't enjoy it." |
+| **Time Delay** | "Takes too long" | "It won't be convenient. The outcome will take forever." |
+
+**For each appraisal, ask:**
+- "Not worth it" → How can I make this MORE worth it?
+- "Won't work for me" → How can I prove this WILL work for them specifically?
+- "Too hard" → How can I make it easy? Simple? Fun?
+- "Takes too long" → How can I make it faster? More convenient?
+
+### The "Next Need" Hack (Before/During/After)
+
+Problems exist at every stage of the customer journey. Don't just solve problems DURING—solve them BEFORE they start and AFTER they finish:
+
+| Phase | What to Ask | Example Problems |
+|-------|-------------|-----------------|
+| **BEFORE** (they haven't started) | "What stops them from beginning?" | Setup, preparation, clearing schedule, getting buy-in |
+| **DURING** (they're in the program) | "What stops them from completing?" | Confusion, motivation, competing priorities, setbacks |
+| **AFTER** (the program ends) | "What stops them from maintaining?" | Backsliding, new situations, social pressure, travel |
+
+**Why this matters:**
+- BEFORE problems = reasons they don't START (lost sales)
+- DURING problems = reasons they don't COMPLETE (poor results)
+- AFTER problems = reasons they don't MAINTAIN (no referrals)
 
 ### Process: Action Mapping
 
@@ -316,16 +376,41 @@ Not everything you CAN deliver SHOULD be delivered. Remove low-value items, keep
 | **High Value** | ✅ KEEP (profit engine) | ✅ KEEP (premium only) |
 | **Low Value** | ❌ REMOVE (clutter) | ❌ REMOVE (profit killer) |
 
+### The 80% Gross Margin Rule (Service Businesses)
+
+For service businesses, target 80%+ gross margins. If you charge $100, fulfillment should cost $20 or less.
+
+**Why 80%?**
+
+| Category | Approximate % |
+|----------|---------------|
+| Cost of Fulfillment | ~20% |
+| Cost of Acquisition (marketing, sales, commissions) | ~20-30% |
+| Infrastructure (software, admin, billing) | ~15-20% |
+| **Net Profit** | **~30%+** |
+
+You should be most profitable in the beginning—margins only decrease as you add infrastructure and team.
+
 ### Evaluation Criteria
 
 For each delivery vehicle, ask:
 
 1. **Dream Outcome:** Does this directly advance their result?
-2. **Likelihood:** Does this increase their belief it will work?
-3. **Time:** Does this speed up their results?
-4. **Effort:** Does this make their life easier?
+2. **Perceived Likelihood of Achievement:** Does this increase their belief it will work?
+3. **Time Delay:** Does this speed up their results?
+4. **Effort & Sacrifice:** Does this make their life easier?
 
 If the answer isn't a clear "yes" to at least one, remove it.
+
+### Trim Criteria Refined
+
+**Limit high-cost items:** Keep 1-2 high-cost delivery items MAX per problem area. Fill the rest with high-value, low-cost items.
+
+**The "One Fell Swoop" test:** Some delivery methods solve multiple problems at once. A personal grocery tour solves "confusing," "takes too long," AND "won't like it" simultaneously. Prioritize these multi-problem solvers.
+
+**The balance:**
+- Low-cost items handle the HOW (recordings, tools, templates, guides)
+- High-cost items handle the FEAR (personal review, sign-off, done-for-you elements)
 
 ### Stacking Process
 
@@ -451,6 +536,24 @@ Easy to Sell ◄─────────────────────�
 1. Generate demand first (prove people want it)
 2. Get them to say yes (over-deliver if needed)
 3. Optimize operations (only after cash flows)
+
+---
+
+## The Tesla Pyramid: Build Top-Down
+
+Build your business from the TOP down, not bottom up.
+
+**The Tesla example:** They started with the $250k Roadster (few customers, highest price), then the $100k Model S/X, then finally the $30k Model 3/Y for mass market. They didn't start cheap and try to work up—they started premium and expanded down.
+
+**Why top-down works:**
+- **Cash flow first** — High ticket + fewer clients = faster profitability
+- **Price anchoring** — Your mid-tier feels cheap compared to your top-tier
+- **Proof flows downward** — Results from high-touch validate lower-touch offers
+- **No premature scaling** — Don't solve problems you don't have yet
+
+**Applied to services:** Start with custom 1-on-1 / Done-For-You (learn, get testimonials, refine). Then create group / Done-With-You (scale proof, build systems). Finally, course / DIY (leverage, reach more people).
+
+**The mistake:** "I need to be scalable first." You don't need scalability—you need clients. Get clients, then figure out scale.
 
 ---
 

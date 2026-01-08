@@ -1,0 +1,22 @@
+# Windows/WSL artifacts
+*:Zone.Identifier
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Logs
+*.log
