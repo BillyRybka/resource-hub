@@ -91,6 +91,101 @@ Ask yourself:
 
 ---
 
+## Digging Deeper: Vehicle vs. Destination
+
+When users give you a vehicle (what they DO), you need to dig until you find the destination (what the customer GETS).
+
+### The "So What?" Chain
+
+Keep asking until you hit the real outcome:
+
+```
+User: "We help them do X faster"
+→ "So what does doing X faster give them?"
+
+User: "They can do more of X"
+→ "So what does doing more of X give them?"
+
+User: "They get [real outcome]"
+→ "So what does [real outcome] give them?"
+
+User: "More revenue / time back / peace of mind"
+→ NOW you're at the destination. What do they REALLY want?
+```
+
+**The chain isn't done until the answer is something they'd brag about, dream about, or feel emotional about.**
+
+**Example: Real Estate Agent**
+
+```
+User: "We teach agents how to do better open houses"
+→ "So what does a better open house give them?"
+
+User: "More people show up"
+→ "So what does more people showing up give them?"
+
+User: "More offers on the listing"
+→ "So what does more offers give them?"
+
+User: "They sell the house faster and for more money"
+→ "So what does that give THEM personally?"
+
+User: "They close more deals, make more commission, and get more referrals"
+→ "So what does that mean for their life?"
+
+User: "They hit six figures without working weekends or begging for leads"
+→ THAT'S the destination.
+```
+
+**Started with:** "Better open houses" (vehicle)
+**Ended with:** "Hit six figures without working weekends or begging for leads" (destination)
+
+The open house training is the MECHANISM. The six-figure income without weekend work is the OUTCOME.
+
+### Probing Questions When Stuck on the Vehicle
+
+Use these to push past surface-level answers:
+
+| When They Say... | Ask... |
+|------------------|--------|
+| "We make X faster" | "What does faster X let them DO that they can't do now?" |
+| "We automate X" | "What happens to their life/business when X is automated?" |
+| "We fix their X problem" | "If that problem is gone forever, what changes for them?" |
+| "We help them with X" | "That's what you do. What do THEY get? What's different after?" |
+
+### The Real Outcome Test
+
+You've found the real outcome when:
+- It's something they'd **brag about** to peers
+- It's something they **dream about** at 2am
+- It's something they'd **pay almost anything** to have right now
+- It answers: "What can they finally **stop doing** or **start doing**?"
+
+### Warning Signs You're Still at the Vehicle
+
+- The answer describes YOUR process, not THEIR result
+- A competitor could say the exact same thing
+- There's no emotion in the statement
+- It doesn't answer "so what?"
+- They wouldn't tell their spouse about it excitedly
+
+### Combining Outcome + Mechanism + Without
+
+Once you find the real outcome, combine it with HOW they get there and what pain they avoid:
+
+```
+[Real Outcome] by [Mechanism/How] — without [Pain They Avoid]
+```
+
+**The mechanism is often the "vehicle" they first mentioned.** The vehicle isn't wrong—it just shouldn't be the headline. It's the HOW, not the WHAT.
+
+Questions to build the complete statement:
+1. What do they REALLY want? (destination) → This is the outcome
+2. How do they get it? (vehicle) → This is the mechanism
+3. What pain are they avoiding? → This is the "without"
+
+---
+
 ## Real Examples by Industry
 
 ### Weight Loss / Fitness
