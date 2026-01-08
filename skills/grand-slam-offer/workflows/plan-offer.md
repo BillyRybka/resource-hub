@@ -73,23 +73,44 @@ Which direction interests you?"
 
 ## Step 2: Define Dream Outcome
 
+> **Reference:** See `references/dream-outcome.md` for the complete formula, real examples by industry, and common mistakes.
+
 Ask: "What's the end result your customer desperately wants? Not what you sell - what they GET. The destination, not the plane flight."
 
-**Push for specificity:**
-- Bad: "They want to grow their business"
-- Better: "They want to double revenue"
-- Best: "They want to hit $100K/month so they can quit their job and have their spouse respect their decision to start a business"
+### The Dream Outcome Formula
 
-**Frame in status terms:**
+```
+[Specific Outcome] in [Time Period] without [Biggest Pain/Fear]
+```
 
-Ask: "When they achieve this outcome, what will others think or say about them? What status do they gain?"
+### Dream Outcome Builder
 
-Examples:
-- Weight loss → "Wow, you look amazing! What's your secret?"
-- Business growth → "I can't believe you built that. You're crushing it."
-- Skill acquisition → "You're the expert everyone asks for advice."
+Walk through each component:
 
-**Test the dream outcome:**
+| Component | Question | Example |
+|-----------|----------|---------|
+| **1. SPECIFIC RESULT** | What EXACTLY will they achieve? (measurable) | "Lose 20 pounds" not "lose weight" |
+| **2. TIME PERIOD** | In what timeframe? | "6 weeks" not "quickly" |
+| **3. WITHOUT** | What's their biggest pain/fear they dread? | "without giving up foods you love" |
+
+**Finding the "WITHOUT":**
+- "What's stopped them from achieving this before?"
+- "What do they dread about the process?"
+- "What sacrifice do they assume they'll have to make?"
+
+**Combine into:** `[RESULT] in [TIME] without [WITHOUT]`
+
+### Frame in Status Terms
+
+Ask: "When they achieve this outcome, what will others think or say about them?"
+
+| Basic Outcome | Status-Enhanced |
+|---------------|-----------------|
+| "Lose 20 pounds" | "Get the body your spouse can't keep their hands off" |
+| "Make $100k" | "Become the friend everyone asks for business advice" |
+| "Get clients" | "Have a waitlist of people wanting to work with you" |
+
+### Test the Dream Outcome
 
 Ask yourself (and them):
 - "Would they feel embarrassed to admit how badly they want this?"

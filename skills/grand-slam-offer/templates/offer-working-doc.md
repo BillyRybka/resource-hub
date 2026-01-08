@@ -49,6 +49,7 @@ updated: {{DATE}}
 ---
 
 ## Dream Outcome
+<!-- Reference: See references/dream-outcome.md for formula, examples, and guidance -->
 
 ### The Destination (Not the Vehicle)
 <!-- What transformation do they desperately want? Status-focused, visceral. -->

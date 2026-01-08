@@ -135,6 +135,7 @@ Lowest score = biggest opportunity.
 All domain knowledge in `references/`:
 
 **Core Framework:**
+- dream-outcome.md - Dream outcome formula + real examples by industry
 - value-equation-deep-dive.md - Complete Value Equation breakdown
 - market-selection.md - Starving Crowd + 4 criteria
 - premium-pricing.md - Virtuous Cycle + conviction
@@ -161,7 +162,7 @@ All domain knowledge in `references/`:
 
 | Workflow | Purpose | Key References |
 |----------|---------|----------------|
-| plan-offer.md | Market validation → dream outcome → problem list | market-selection.md, value-equation-deep-dive.md |
+| plan-offer.md | Market validation → dream outcome → problem list | dream-outcome.md, market-selection.md, value-equation-deep-dive.md |
 | build-offer.md | Full creation: delivery vehicles → enhancements → naming | offer-creation-process.md, all enhancement refs, naming-magic.md |
 | audit-improve-offer.md | Brutal critique + actionable fixes | value-equation-deep-dive.md, all enhancement refs |
 | refresh-offer.md | Variation hierarchy for fatigued offers | variation-hierarchy.md |

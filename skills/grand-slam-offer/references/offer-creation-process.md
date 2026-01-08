@@ -16,6 +16,8 @@ Step 5: Trim & Stack ────▶ Remove low-value, bundle high-value
 
 ## Step 1: Identify Dream Outcome
 
+> **Deep Dive:** See `dream-outcome.md` for the complete formula, real examples across 6+ industries, the Dream Outcome Builder template, and common mistakes to avoid.
+
 ### The Principle
 
 You're not selling the plane flight—you're selling the vacation. Not the drill—the hole. Not the process—the transformation.
