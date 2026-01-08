@@ -104,32 +104,21 @@ I help [avatar] achieve [specific outcome] in [time period] without [biggest pai
 
 Every obstacle between your prospect and their dream outcome is an opportunity to create value. More problems identified = more value created = higher prices justified.
 
-### The Four Problem Categories
+### The Four Problem Categories (Value Equation Aligned)
 
 For EACH action they must take, apply these four lenses:
 
-| Category | Core Fear | Example Questions |
-|----------|-----------|-------------------|
-| **Likelihood** | "It won't work for me" | What's unique about their situation? Past failures? |
-| **Time** | "It takes too long" | Why do they feel they don't have time? |
-| **Effort** | "It's too hard" | What seems confusing/complicated/difficult? |
-| **Sacrifice** | "The cost is too high" | What must they give up? (money, comfort, habits) |
-
-### The Four Problem Appraisals (Prospect's Internal Voice)
-
-When prospects evaluate your offer, they're running these internal appraisals:
-
 | Value Driver | Their Appraisal | What They're Thinking |
 |--------------|-----------------|----------------------|
-| **Dream Outcome** | "Not worth it" | "This won't be financially worth it for me" |
-| **Perceived Likelihood of Achievement** | "Won't work for me" | "I won't be able to stick with it. External factors will get in my way." |
-| **Effort & Sacrifice** | "Too hard" | "It's going to be confusing. I'll be bad at it. I won't enjoy it." |
-| **Time Delay** | "Takes too long" | "It won't be convenient. The outcome will take forever." |
+| **Dream Outcome** | "Not worth it" | "This will not be financially worth it" |
+| **Perceived Likelihood of Achievement** | "Won't work for me" | "It won't work for me specifically. I won't be able to stick with it. External factors will get in my way." |
+| **Effort & Sacrifice** | "Too hard" | "This will be too hard, confusing. I won't like it. I will suck at it." |
+| **Time Delay** | "Takes too long" | "This will take too much time to do. I am too busy. It will take too long to work. It won't be convenient for me." |
 
-**For each appraisal, ask:**
-- "Not worth it" → How can I make this MORE worth it?
+**For each category, ask:**
+- "Not worth it" → How can I make this MORE financially worth it?
 - "Won't work for me" → How can I prove this WILL work for them specifically?
-- "Too hard" → How can I make it easy? Simple? Fun?
+- "Too hard" → How can I make it easy? Simple? Enjoyable?
 - "Takes too long" → How can I make it faster? More convenient?
 
 ### The "Next Need" Hack (Before/During/After)
@@ -159,48 +148,48 @@ Problems exist at every stage of the customer journey. Don't just solve problems
 
 **Action 1: Buy healthy food**
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
-| Time | "Grocery shopping takes forever" / "I'm too busy to go to multiple stores" |
-| Effort | "Reading labels is confusing" / "I don't know how to find deals" |
-| Sacrifice | "Healthy food is expensive" / "I'll miss my comfort foods" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Healthy food is expensive" / "This diet won't be worth the cost" |
+| Perceived Likelihood of Achievement | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
+| Effort & Sacrifice | "Reading labels is confusing" / "I don't know how to find deals" / "I'll miss my comfort foods" |
+| Time Delay | "Grocery shopping takes forever" / "I'm too busy to go to multiple stores" |
 
 **Action 2: Cook healthy food**
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I'm a terrible cook" / "My meals never taste good" / "I'll get bored of bland food" |
-| Time | "Cooking takes too long" / "I don't have time for meal prep" |
-| Effort | "Recipes are complicated" / "I don't know kitchen basics" |
-| Sacrifice | "I have to give up eating out" / "No more quick takeout" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Cooking at home costs more than I thought" / "Not worth the hassle financially" |
+| Perceived Likelihood of Achievement | "I'm a terrible cook" / "My meals never taste good" / "I'll get bored of bland food" |
+| Effort & Sacrifice | "Recipes are complicated" / "I don't know kitchen basics" / "I have to give up eating out" |
+| Time Delay | "Cooking takes too long" / "I don't have time for meal prep" |
 
 **Action 3: Eat healthy food consistently**
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I always fall off diets" / "I have no willpower" / "Social events derail me" |
-| Time | "Eating healthy takes too long" / "I can't meal prep every week" |
-| Effort | "Tracking calories is tedious" / "Portions are confusing" |
-| Sacrifice | "I'll miss happy hour" / "Can't enjoy holidays" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "The results won't be worth what I'm giving up" |
+| Perceived Likelihood of Achievement | "I always fall off diets" / "I have no willpower" / "Social events derail me" |
+| Effort & Sacrifice | "Tracking calories is tedious" / "Portions are confusing" / "I'll miss happy hour" / "Can't enjoy holidays" |
+| Time Delay | "Eating healthy takes too long" / "I can't meal prep every week" |
 
 **Action 4: Exercise regularly**
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I hate the gym" / "I don't know proper form" / "I'll hurt myself" |
-| Time | "I don't have an hour daily" / "Commute to gym is too long" |
-| Effort | "Workouts are confusing" / "I don't know what to do" |
-| Sacrifice | "I'll be sore" / "I'll miss my TV time" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Gym membership isn't worth it" / "Equipment costs too much" |
+| Perceived Likelihood of Achievement | "I hate the gym" / "I don't know proper form" / "I'll hurt myself" |
+| Effort & Sacrifice | "Workouts are confusing" / "I don't know what to do" / "I'll be sore" / "I'll miss my TV time" |
+| Time Delay | "I don't have an hour daily" / "Commute to gym is too long" |
 
 **Action 5: Stay accountable**
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I'll quit like always" / "No one will check on me" |
-| Time | "Tracking progress takes time" / "Weigh-ins are inconvenient" |
-| Effort | "Staying motivated is hard" / "I need constant reminders" |
-| Sacrifice | "I'll have to admit when I fail" / "Can't hide anymore" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Coaching/accountability isn't worth the investment" |
+| Perceived Likelihood of Achievement | "I'll quit like always" / "No one will check on me" |
+| Effort & Sacrifice | "Staying motivated is hard" / "I need constant reminders" / "I'll have to admit when I fail" |
+| Time Delay | "Tracking progress takes time" / "Weigh-ins are inconvenient" |
 
 **Total problems identified:** 40+ (exceeds minimum of 32)
 
@@ -209,26 +198,25 @@ Problems exist at every stage of the customer journey. Don't just solve problems
 ```
 ACTION REQUIRED: ________________________________
 
-LIKELIHOOD PROBLEMS:
+DREAM OUTCOME PROBLEMS:
+"This won't be financially worth it because..."
+1. ________________________________________________
+2. ________________________________________________
+
+LIKELIHOOD OF ACHIEVEMENT PROBLEMS:
 "It won't work for me because..."
 1. ________________________________________________
 2. ________________________________________________
 3. ________________________________________________
 
-TIME PROBLEMS:
-"It takes too long because..."
+EFFORT & SACRIFICE PROBLEMS:
+"This will be too hard / I'll have to give up too much because..."
 1. ________________________________________________
 2. ________________________________________________
 3. ________________________________________________
 
-EFFORT PROBLEMS:
-"It's too hard because..."
-1. ________________________________________________
-2. ________________________________________________
-3. ________________________________________________
-
-SACRIFICE PROBLEMS:
-"The cost is too high because..."
+TIME DELAY PROBLEMS:
+"This takes too long / isn't convenient because..."
 1. ________________________________________________
 2. ________________________________________________
 3. ________________________________________________
@@ -396,7 +384,7 @@ You should be most profitable in the beginning—margins only decrease as you ad
 For each delivery vehicle, ask:
 
 1. **Dream Outcome:** Does this directly advance their result?
-2. **Perceived Likelihood of Achievement:** Does this increase their belief it will work?
+2. **Perceived Likelihood of Achievement:** Does this increase their belief it will work for THEM?
 3. **Time Delay:** Does this speed up their results?
 4. **Effort & Sacrifice:** Does this make their life easier?
 

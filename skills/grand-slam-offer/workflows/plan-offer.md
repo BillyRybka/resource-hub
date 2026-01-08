@@ -83,12 +83,12 @@ If no to any → dig deeper. The dream outcome isn't visceral enough.
 1. List every ACTION they must take to achieve the dream outcome
 2. For EACH action, identify problems in 4 categories:
 
-| Category | Question | Example (Weight Loss Dream) |
-|----------|----------|----------------------------|
-| Likelihood | "Why won't this work for me?" | "My metabolism is slow" |
-| Time | "Why will this take too long?" | "I don't have time to cook" |
-| Effort | "Why is this too hard?" | "I don't know what to buy" |
-| Sacrifice | "What must I give up?" | "I'll miss eating out with friends" |
+| Value Driver | Question | Example (Weight Loss Dream) |
+|--------------|----------|----------------------------|
+| Dream Outcome | "Why won't this be financially worth it?" | "Healthy food is too expensive" |
+| Perceived Likelihood of Achievement | "Why won't this work for me?" | "My metabolism is slow" / "I always fail diets" |
+| Effort & Sacrifice | "Why is this too hard / what must I give up?" | "I don't know what to buy" / "I'll miss eating out" |
+| Time Delay | "Why will this take too long?" | "I don't have time to cook" |
 
 **Walk through it with them:**
 
@@ -108,12 +108,12 @@ Example for weight loss:
 <book_example>
 **From the book — "Buy Healthy Food" action with all 4 categories:**
 
-| Category | Problems Identified |
-|----------|---------------------|
-| Likelihood | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
-| Time | "Grocery shopping takes forever" / "Too busy for multiple stores" |
-| Effort | "Reading labels is confusing" / "Don't know how to find deals" |
-| Sacrifice | "Healthy food is expensive" / "I'll miss my comfort foods" |
+| Value Driver | Problems Identified |
+|--------------|---------------------|
+| Dream Outcome | "Healthy food is expensive" / "This diet won't be worth the cost" |
+| Perceived Likelihood of Achievement | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
+| Effort & Sacrifice | "Reading labels is confusing" / "Don't know how to find deals" / "I'll miss my comfort foods" |
+| Time Delay | "Grocery shopping takes forever" / "Too busy for multiple stores" |
 
 Repeat this for every action (cook, eat, exercise, stay accountable) → 40+ problems total.
 
@@ -124,10 +124,10 @@ Repeat this for every action (cook, eat, exercise, stay accountable) → 40+ pro
 
 Review the problems against the Value Equation:
 
-- **Likelihood problems:** "I don't believe this will work for ME specifically"
-- **Time problems:** "This will take too long to see results"
-- **Effort problems:** "This is too hard, complicated, or confusing"
-- **Sacrifice problems:** "I'll have to give up things I don't want to give up"
+- **Dream Outcome problems:** "This won't be financially worth it"
+- **Perceived Likelihood of Achievement problems:** "This won't work for ME specifically"
+- **Effort & Sacrifice problems:** "This is too hard, confusing, or requires giving up too much"
+- **Time Delay problems:** "This will take too long or isn't convenient"
 
 Ask: "Which category has the MOST problems? That's where your offer needs to over-deliver."
 
@@ -159,16 +159,16 @@ DREAM OUTCOME:
 
 PROBLEMS TO SOLVE (X total):
 
-Likelihood Problems (X):
+Dream Outcome Problems (X):
 - [List]
 
-Time Problems (X):
+Perceived Likelihood of Achievement Problems (X):
 - [List]
 
-Effort Problems (X):
+Effort & Sacrifice Problems (X):
 - [List]
 
-Sacrifice Problems (X):
+Time Delay Problems (X):
 - [List]
 
 BIGGEST OPPORTUNITY:

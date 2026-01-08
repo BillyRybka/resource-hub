@@ -73,12 +73,12 @@ Don't soften it. They came for feedback, give it to them.
 
 Score each driver 1-10:
 
-| Driver | Score | Evidence | Problem |
-|--------|-------|----------|---------|
-| Dream Outcome | ?/10 | [What they promise] | [Why it's weak/strong] |
-| Perceived Likelihood | ?/10 | [Proof elements] | [Why they might not believe] |
-| Time Delay | ?/10 | [Speed of results] | [Why too slow] |
-| Effort & Sacrifice | ?/10 | [What customer must do] | [Why too hard] |
+| Value Driver | Score | Evidence | Problem |
+|--------------|-------|----------|---------|
+| Dream Outcome | ?/10 | [What they promise] | [Why it's not financially worth it] |
+| Perceived Likelihood of Achievement | ?/10 | [Proof elements] | [Why they might not believe it works for THEM] |
+| Effort & Sacrifice | ?/10 | [What customer must do] | [Why too hard / too much to give up] |
+| Time Delay | ?/10 | [Speed of results] | [Why too slow / inconvenient] |
 
 **Scoring guide:**
 - 9-10: Exceptional. Hard to improve.

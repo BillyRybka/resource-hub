@@ -29,43 +29,43 @@ From Alex Hormozi's $100M Offers book (Chapters 8-9, 14-15). This is the most de
 
 <problem_list>
 
-**Target: 32-64 problems across 4 categories per action**
+**Target: 32-64 problems across 4 Value Equation categories per action**
 
 ### Action 1: Buy Healthy Food
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
-| Time | "Grocery shopping takes forever" / "Too busy for multiple stores" |
-| Effort | "Reading labels is confusing" / "Don't know how to find deals" |
-| Sacrifice | "Healthy food is expensive" / "I'll miss my comfort foods" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Healthy food is expensive" / "This diet won't be worth the cost" |
+| Perceived Likelihood of Achievement | "I don't know what's actually healthy" / "My family won't eat this" / "I'll mess it up" |
+| Effort & Sacrifice | "Reading labels is confusing" / "Don't know how to find deals" / "I'll miss my comfort foods" |
+| Time Delay | "Grocery shopping takes forever" / "Too busy for multiple stores" |
 
 ### Action 2: Cook Healthy Food
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I'm a terrible cook" / "My meals never taste good" / "I'll get bored" |
-| Time | "Cooking takes too long" / "No time for meal prep" |
-| Effort | "Recipes are complicated" / "Don't know kitchen basics" |
-| Sacrifice | "Have to give up eating out" / "No more quick takeout" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Cooking at home costs more than expected" / "Not worth the hassle financially" |
+| Perceived Likelihood of Achievement | "I'm a terrible cook" / "My meals never taste good" / "I'll get bored" |
+| Effort & Sacrifice | "Recipes are complicated" / "Don't know kitchen basics" / "Have to give up eating out" |
+| Time Delay | "Cooking takes too long" / "No time for meal prep" |
 
 ### Action 3: Eat Healthy Food Consistently
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I always fall off diets" / "No willpower" / "Social events derail me" |
-| Time | "Eating healthy takes too long" / "Can't meal prep every week" |
-| Effort | "Tracking calories is tedious" / "Portions are confusing" |
-| Sacrifice | "I'll miss happy hour" / "Can't enjoy holidays" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "The results won't be worth what I'm giving up" |
+| Perceived Likelihood of Achievement | "I always fall off diets" / "No willpower" / "Social events derail me" |
+| Effort & Sacrifice | "Tracking calories is tedious" / "Portions are confusing" / "I'll miss happy hour" / "Can't enjoy holidays" |
+| Time Delay | "Eating healthy takes too long" / "Can't meal prep every week" |
 
 ### Action 4: Exercise Regularly
 
-| Category | Problems |
-|----------|----------|
-| Likelihood | "I hate the gym" / "Don't know proper form" / "I'll hurt myself" |
-| Time | "Don't have an hour daily" / "Commute to gym is too long" |
-| Effort | "Workouts are confusing" / "Don't know what to do" |
-| Sacrifice | "I'll be sore" / "I'll miss my TV time" |
+| Value Driver | Problems |
+|--------------|----------|
+| Dream Outcome | "Gym membership isn't worth it" / "Equipment costs too much" |
+| Perceived Likelihood of Achievement | "I hate the gym" / "Don't know proper form" / "I'll hurt myself" |
+| Effort & Sacrifice | "Workouts are confusing" / "Don't know what to do" / "I'll be sore" / "I'll miss my TV time" |
+| Time Delay | "Don't have an hour daily" / "Commute to gym is too long" |
 
 **Total: 40+ problems identified**
 
@@ -186,12 +186,12 @@ The core offer stayed the same—only the name wrapper rotated seasonally.
 
 **Value Equation Analysis:**
 
-| Driver | How Maximized |
-|--------|---------------|
-| Dream Outcome | Specific "20lbs in 6 weeks" not vague "get fit" |
-| Likelihood | Accountability system + personalization + proof |
-| Time Delay | 6-week timeline with quick wins built in |
-| Effort | Done-for-you meal plans, 5-min cooking, no gym required |
+| Value Driver | How Maximized |
+|--------------|---------------|
+| Dream Outcome | Specific "20lbs in 6 weeks" not vague "get fit" — financially worth it |
+| Perceived Likelihood of Achievement | Accountability system + personalization + proof — they believe it works for THEM |
+| Effort & Sacrifice | Done-for-you meal plans, 5-min cooking, no gym required — easy, enjoyable |
+| Time Delay | 6-week timeline with quick wins built in — fast, convenient |
 
 **The transformation:** Same service delivery, completely different positioning and packaging.
 
