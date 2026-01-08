@@ -16,6 +16,26 @@ Complete the strategy phase of offer creation: validate the market, define the d
 
 </objective>
 
+<file_management>
+
+## Working Document Setup
+
+**At the start of planning:**
+
+1. Ask the user: "What would you like to call this offer for now? (We can rename it later with M.A.G.I.C.)"
+2. Create the working document from `templates/offer-working-doc.md`
+3. Save as `{offer-name}-WORKING.md` in the user's preferred location (ask if unclear)
+4. Replace `{{OFFER_NAME}}` with their answer and `{{DATE}}` with today's date
+
+**After each major step:**
+- Update the relevant section in the working document
+- Mark the checkbox as complete in the Progress section
+- Update the `updated:` date in the frontmatter
+
+**This ensures work is never lost if the conversation ends.**
+
+</file_management>
+
 <process>
 
 ## Step 1: Market Validation
@@ -49,6 +69,8 @@ Which direction interests you?"
 
 **If market passes criteria:** Confirm and move to Step 2.
 
+**SAVE POINT:** Update the Market section in the working document. Mark "Market validated" checkbox complete.
+
 ## Step 2: Define Dream Outcome
 
 Ask: "What's the end result your customer desperately wants? Not what you sell - what they GET. The destination, not the plane flight."
@@ -75,6 +97,8 @@ Ask yourself (and them):
 - "Is this something they think about at 2am?"
 
 If no to any → dig deeper. The dream outcome isn't visceral enough.
+
+**SAVE POINT:** Update the Dream Outcome section in the working document. Mark "Dream outcome defined" checkbox complete.
 
 ## Step 3: Identify All Problems (Target: 32-64)
 
@@ -120,6 +144,8 @@ Repeat this for every action (cook, eat, exercise, stay accountable) → 40+ pro
 **Full example:** `references/examples/weight-loss-offer.md`
 </book_example>
 
+**SAVE POINT:** Update the Problems section in the working document with all identified problems. Update the Problem Count subsection.
+
 ## Step 4: Validate Problem List
 
 Review the problems against the Value Equation:
@@ -139,6 +165,8 @@ Format each problem as a clear statement:
 ...
 
 This becomes the input for the build phase.
+
+**SAVE POINT:** Mark "Problems identified" checkbox complete. Update the Biggest Opportunity subsection.
 
 ## Step 5: Summarize the Plan
 
@@ -177,6 +205,8 @@ BIGGEST OPPORTUNITY:
 READY FOR BUILD PHASE: Yes/No
 [If no, what's missing]
 ```
+
+**FINAL SAVE:** Update the working document status from `planning` to `building` in the frontmatter. All Planning Phase checkboxes should now be complete. The document is ready for the build workflow.
 
 </process>
 

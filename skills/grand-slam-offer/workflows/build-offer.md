@@ -43,6 +43,28 @@ Ask them to share:
 
 </entry_validation>
 
+<file_management>
+
+## Working Document
+
+**If continuing from plan phase:**
+- Read the existing `{offer-name}-WORKING.md` file
+- Verify status is `building` and Planning Phase checkboxes are complete
+- Continue from where planning left off
+
+**If starting fresh (user has plan but no working doc):**
+1. Ask the user: "What would you like to call this offer for now?"
+2. Create from `templates/offer-working-doc.md`
+3. Fill in the Market, Dream Outcome, and Problems sections from their existing plan
+4. Mark Planning Phase checkboxes as complete
+
+**After each major step:**
+- Update the relevant section in the working document
+- Mark the checkbox as complete in the Progress section
+- Update the `updated:` date in the frontmatter
+
+</file_management>
+
 <process>
 
 ## Step 1: Convert Problems to Solutions
@@ -63,6 +85,8 @@ The solution should:
 - Mirror the problem language
 - Include a parenthetical that addresses the objection
 - Sound like something they'd pay for
+
+**SAVE POINT:** Update the Solutions section in the working document. Mark "Solutions created" checkbox complete.
 
 ## Step 2: Create Delivery Vehicles (Delivery Cube)
 
@@ -90,6 +114,8 @@ For each solution, determine HOW to deliver it using 6 dimensions:
 - Scalability
 
 **High-leverage insight:** One-to-many, DIY solutions with recorded delivery = highest margin. Save 1-on-1 for premium tiers.
+
+**SAVE POINT:** Update the Delivery Vehicles section in the working document. Mark "Delivery vehicles assigned" checkbox complete.
 
 ## Step 3: Trim and Stack
 
@@ -142,6 +168,8 @@ Each component has a benefit-focused name and justified value.
 **Full example:** `references/examples/weight-loss-offer.md`
 </book_example>
 
+**SAVE POINT:** Update the Value Stack section in the working document. Mark "Trimmed & stacked" checkbox complete.
+
 ## Step 4: Add Scarcity
 
 Ask: "What's your real capacity limit? How many can you actually serve well?"
@@ -164,6 +192,8 @@ Ask: "What's your real capacity limit? How many can you actually serve well?"
 
 If they can't commit to real scarcity, acknowledge what they're leaving on the table and move on.
 
+**SAVE POINT:** Update the Scarcity section in the working document. Mark "Scarcity added" checkbox complete.
+
 ## Step 5: Add Urgency
 
 Ask: "What time limit makes sense for your business model?"
@@ -180,6 +210,8 @@ Ask: "What time limit makes sense for your business model?"
 **The 50-60% Rule:** Last 3% of campaign time = 50-60% of sales. Deadlines work.
 
 **Critical:** Urgency must be REAL. Ask: "Will you actually remove this on the deadline?"
+
+**SAVE POINT:** Update the Urgency section in the working document. Mark "Urgency added" checkbox complete.
 
 ## Step 6: Add Bonuses
 
@@ -208,6 +240,8 @@ Ask: "What time limit makes sense for your business model?"
 **Partner bonuses:**
 
 "Do you know anyone whose product/service would help your customers AND doesn't compete with you? They might give you their product as a bonus (for free) in exchange for exposure."
+
+**SAVE POINT:** Update the Bonuses section in the working document. Mark "Bonuses added" checkbox complete.
 
 ## Step 7: Add Guarantee
 
@@ -239,6 +273,8 @@ Ask: "What guarantee can you offer that reverses their risk?"
 
 Acknowledge and move on if they insist.
 
+**SAVE POINT:** Update the Guarantee section in the working document. Mark "Guarantee added" checkbox complete.
+
 ## Step 8: Name with M.A.G.I.C.
 
 **M.A.G.I.C. Formula:**
@@ -259,6 +295,8 @@ Acknowledge and move on if they insist.
 
 **Generate 3-5 name options**, then ask which resonates most.
 
+**SAVE POINT:** Update the Naming section in the working document. Mark "Named with M.A.G.I.C." checkbox complete. Ask user if they want to rename the working document file to match the new offer name.
+
 ## Step 9: Set Premium Price
 
 **Price should be:**
@@ -271,6 +309,8 @@ Acknowledge and move on if they insist.
 **Test the price:**
 
 "Say the price out loud. Does it feel right? If you're comfortable, it's probably too low. The price should make you slightly nervous."
+
+**SAVE POINT:** Update the Pricing section in the working document. Mark "Price set" checkbox complete.
 
 ## Step 10: Final Assembly
 
@@ -308,6 +348,81 @@ PRICE: $[price]
 (That's [X]% off the total value)
 ```
 
+**SAVE POINT:** Update the Final Offer Summary section in the working document. Mark "Final offer assembled" checkbox complete.
+
+## Step 11: Generate Final Offer Document
+
+Once all steps are complete:
+
+1. Update the working document status from `building` to `completed` in the frontmatter
+2. Verify all Build Phase checkboxes are marked complete
+3. Ask the user: "Would you like me to generate a clean Final Offer document?"
+
+**If yes, create `{offer-name}-FINAL.md` with this structure:**
+
+```markdown
+# [OFFER NAME]
+
+## The Offer
+
+**For:** [Target avatar]
+
+**Promise:** [Dream outcome statement]
+
+---
+
+## What's Included
+
+| Component | Value |
+|-----------|-------|
+| [Component 1 name] | $X |
+| [Component 2 name] | $X |
+| [Component 3 name] | $X |
+
+**Total Value:** $X
+
+---
+
+## Bonuses
+
+| Bonus | Description | Value |
+|-------|-------------|-------|
+| [Bonus 1] | [Brief description] | $X |
+| [Bonus 2] | [Brief description] | $X |
+
+**Total Bonus Value:** $X
+
+---
+
+## Guarantee
+
+[Guarantee statement]
+
+---
+
+## Limited Availability
+
+**Scarcity:** [Limit]
+
+**Deadline:** [Urgency]
+
+---
+
+## Investment
+
+**Total Value:** $[combined value]
+
+**Your Investment:** $[price]
+
+**You Save:** [X]% (or $[amount])
+```
+
+This clean document is ready to:
+- Copy into a sales page
+- Use in a pitch deck
+- Share with copywriters
+- Reference when creating marketing materials
+
 </process>
 
 <critical_checkpoints>
@@ -340,5 +455,7 @@ Build phase is complete when:
 - [ ] M.A.G.I.C. name created
 - [ ] Premium price set
 - [ ] Final offer assembled and presented
+- [ ] Working document status updated to `completed`
+- [ ] Final offer document generated (optional but recommended)
 
 </success_criteria>
